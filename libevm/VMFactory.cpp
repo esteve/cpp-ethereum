@@ -25,6 +25,7 @@
 #include <boost/dll/shared_library.hpp>
 #include <boost/function.hpp>
 
+namespace dll = boost::dll;
 namespace po = boost::program_options;
 
 namespace dev
